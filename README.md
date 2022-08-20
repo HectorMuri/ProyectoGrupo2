@@ -1,6 +1,7 @@
 <img src="https://app.genmymodel.com/api/projects/_qDFhAB9wEe2TQ77rRj9fOQ/diagrams/_qDFhAx9wEe2TQ77rRj9fOQ/svg">
 
-El presente proyecto que tenemos plasmado a continuación en el archivo de Genmymodel es una aplicación para matricula, en este caso será una matricula para administrador, el cual será apoyado por otra persona que le creará un usuario a una persona para que pueda matricular sus clases, este permitirá la vista de sus métodos de pago, el listado de clases que pueda ingresar y los catedráticos disponibles.
+El presente proyecto que tenemos plasmado a continuación en el archivo de Genmymodel es una aplicación para matricula de asignaturas, en este caso será un programa con acceso para administrador. 
+En donde el alumno será apoyado por otra persona(adiministrador) que le creará un usuario al alumno para que pueda matricular sus clases, este permitirá la vista de sus métodos de pago, el listado de clases que pueda ingresar y los catedráticos disponibles.
 
 
 Hector Emilio Murillo-21811246
