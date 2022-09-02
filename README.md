@@ -10,3 +10,6 @@ Carlos Edgardo Sagastume-61721058
 Wessly Augusto Zelaya Cruz-61611064
 Owen Daniel de Jesus Lopez-62211186
 Fernando José Nuñez Galo-61951072
+
+
+Actualizando Modelo UML.
